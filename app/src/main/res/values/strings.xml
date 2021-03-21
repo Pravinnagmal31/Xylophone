@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Xylophone</string>
+    <string name="action_settings">Settings</string>
+    <string name="color1">#ff0000</string>
+    <string name="color2">#ff7400</string>
+    <string name="color3">#ffce00</string>
+    <string name="color4">#22af4a</string>
+    <string name="color5">#6becd5</string>
+    <string name="color6">#0828c5</string>
+    <string name="color7">#56007C</string>
+</resources>
